@@ -1,0 +1,14 @@
+{
+  "name": "FishMod",
+  "author": "FranzFischer78",
+  "description": "You're a fish and you'll die if you're not in the water",
+  "version": "1.0",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/fish-mod/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
